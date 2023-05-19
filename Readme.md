@@ -7,7 +7,7 @@
 
 # The contract is optimized. now the "start" and "withdraw" functions require less gas.
 -----------------
-# Update 03.05.2023 (Result)
+# Update 19.05.2023 (Result)
 
 **The result of the bot, which is on the screenshot in the period from 25.04 to 03.05**
 --------
