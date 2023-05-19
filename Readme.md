@@ -9,7 +9,9 @@
 -----------------
 # Update 19.05.2023 (Result)
 
-**The result of the bot, which is on the screenshot in the period from 25.04 to 03.05**
+-----------------------------
+#  **My results in the RESULT.md file**
+
 --------
 **created bot** 25.04.2023
 ![5](https://user-images.githubusercontent.com/132013213/235938205-1637fe55-6ad0-4c9a-b602-0054bde25685.png)
