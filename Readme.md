@@ -7,7 +7,7 @@
 
 # The contract is optimized. now the "start" and "withdraw" functions require less gas.
 -----------------
-# Update 19.05.2023 (Result)
+# Update 20.05.2023 (Result)
 
 -----------------------------
 #  **My results in the RESULT.md file**
