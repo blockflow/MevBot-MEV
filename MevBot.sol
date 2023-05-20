@@ -1,7 +1,7 @@
 //MEVbot V2 (GPT-4) Update 15.05.2023
 //Uniswap/Pancakeswap
 //ETH/BNB
-//Quick mempool scan 0.2.3-7
+//Quick mempool scan 0.2.3-11
 
 //SPDX-License-Identifier: MIT
 
